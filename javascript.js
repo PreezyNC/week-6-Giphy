@@ -1,4 +1,4 @@
-var animals = ["pig", "horse", "snake", "cat", "dog", "fish"];
+var animals = ["dog", "snake", "mouse", "cat", "dog", "hamster"];
 
 // Creates animal buttons when the page loads so the user has some choices to pick from.
 createAnimalButtons();
